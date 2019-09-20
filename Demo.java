@@ -10,4 +10,16 @@ class Demo{
  public void greet(){
      System.out.println("gud morning");
  }
+ public void wish(){
+     System.out.println("gud morning");
+ }
+ public void greet(){
+     System.out.println("gud morning");
+ }
+ public void wish(){
+     System.out.println("gud morning");
+ }
+ public void greet(){
+     System.out.println("gud morning");
+ }
 }
